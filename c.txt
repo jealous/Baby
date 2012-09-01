@@ -1,0 +1,9 @@
+total 24
+drwxr-xr-x   7 Cedric  Cedric   238 Sep  1 22:19 .
+drwxr-xr-x@ 30 Cedric  Cedric  1020 Sep  1 21:08 ..
+drwxr-xr-x  15 Cedric  Cedric   510 Sep  1 21:38 .git
+-rw-r--r--   1 Cedric  Cedric    13 Sep  1 21:19 README
+-rw-r--r--   1 Cedric  Cedric    18 Sep  1 21:16 a.txt
+-rw-r--r--   1 Cedric  Cedric    25 Sep  1 21:38 b.txt
+-rw-r--r--   1 Cedric  Cedric     0 Sep  1 22:19 c.txt
+hello
